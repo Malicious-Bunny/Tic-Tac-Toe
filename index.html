@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="icon" href="styles/tic-tac-toe.png">
+   <script src="script/script.js" defer></script>
+    <title>Tic-Tac-Toe</title>
+</head>
+<body>
+        <div class="body">
+            <div class="head">
+                <h1 id="announcer">Please help us beat the Evil CPU</h1>
+            </div>
+            <div class="board">
+                <div class="1 one"></div>
+                <div class="2 two"></div>
+                <div class="3 three"></div>
+                <div class="4 four"></div>
+                <div class="5 five"></div>
+                <div class="6 six"></div>
+                <div class="7 seven"></div>
+                <div class="8 eight"></div>
+                <div class="9 nine"></div>
+             </div>
+             
+        </div>
+        <div class="welcomeMenu" id="Menu">
+            <div class="settings">
+                <h1  style="text-decoration:dotted;">--Welcome Weary Traveler--</h1>
+                <h3 style="text-decoration:underline ;">Choose your Adversary:</h3>
+                <div class="sides">
+                    <button>AI</button>
+                    <button>CPU</button>
+                </div>
+                <div class="namediv">
+                    <label for="name" id="NAME">What's your name weary Traveler</label>
+                    <input type="text" name="name" id="Playername" placeholder="Enter your name" required>
+                    
+                </div>
+                <button id="play">Play</button>
+                <p id="rec">Select an opponent</p>
+                <div class="credits">
+                    <p>Made By <span style="font-weight:bolder; font-size:larger;">MaliciousBunny</span><a href="https://github.com/Tar-Genius"><img src="styles/github.svg" alt="gh" id="gh"></a></p>
+                   </div>
+                </div>
+        </div>
+        <div id="GameOver">
+            <div class="gameover">
+                <h1 id="winner">Winner</h1>
+                <h2 id="winnername">Name</h2>
+                <button id="playagain">Play Again</button>
+                <button id="Quit">Rage Quit</button>
+            </div>
+        </div>
+</body>
+</html>
