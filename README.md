@@ -12,7 +12,7 @@ Open the `index.html` file in a web browser.
 
 ## Author
 
-This game was created by MaliciousBunny >:)
+This game was created by *MaliciousBunny* >:)
 
 ## Tech Stack
 
@@ -25,5 +25,5 @@ This game was created by MaliciousBunny >:)
 None
 
 ## Preview
-* Check preview <a href="https://tar-genius.github.io/Tic-Tac-Toe/">Here</a>
+Check preview <a href="https://tar-genius.github.io/Tic-Tac-Toe/">Here</a>
 
