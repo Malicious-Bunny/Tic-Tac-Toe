@@ -25,5 +25,5 @@ This game was created by MaliciousBunny >:)
 None
 
 ## Preview
-* Check preview <a href="">Here</a>
+* Check preview <a href="https://tar-genius.github.io/Tic-Tac-Toe/">Here</a>
 
